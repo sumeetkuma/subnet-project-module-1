@@ -1,5 +1,5 @@
-# Project Name- Avalanche-Subnets
-# Process or steps to be followed
+# Project: Avalanche-Subnets
+# steps to be followed
 1- Deploy your EVM subnet using the Avalanche CLI
 
 2- Add your Subnet to Metamask and select network in Metamask
@@ -62,4 +62,4 @@ The `Vault` contract acts as a vault for storing ERC-20 tokens securely. It impl
 - **`balanceOf`**: A mapping that records the number of shares held by each user.
 
 ## Author
-Anandu Singh
+Sumeet Raj
